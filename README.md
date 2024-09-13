@@ -22,7 +22,7 @@ This project implements a 2D volleyball game where two AI agents learn to play a
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/2d-volleyball-ai.git
+   git clone https://github.com/patrickmaub/2d-volleyball-ai.git
    cd 2d-volleyball-ai
    ```
 
