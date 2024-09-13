@@ -34,3 +34,6 @@ This project implements a 2D volleyball game where two AI agents learn to play a
 ## Usage
 
 To start training the AI agents:
+
+```
+python main.py
